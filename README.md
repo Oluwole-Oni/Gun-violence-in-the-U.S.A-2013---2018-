@@ -31,7 +31,7 @@ For this project the following python libraries are used;
 ## **Folders**  
 01 Project Management: Contain the project brief.
 
-02 Data: has two subfolders
+02 Data: has two subfolders (Note: Data folder was not uploaded due to its large file size)
  - Original Data: Original dataset (with JSON spatial file for state mapping)
  - Prepared Data: Cleaned data and derived datas used for analysis.
   
