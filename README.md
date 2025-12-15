@@ -1,5 +1,7 @@
 # **Gun-violence in the U.S.A Analysis**
 ## **Tableau Link:** https://public.tableau.com/views/GunviolenceintheU_S_A2013-2018/Story1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+### **Note**   
+The tableau storyboard doesn’t contain every step taken as part of the analysis only those relevant to the final results.  
 ## **Objective**
 To analyze patterns and severity of gun violence in the United States between 2013 and 2018 using data-driven methods. This project combines advanced exploratory data analysis and clustering in Python with interactive Tableau dashboards to identify geographic disparities, incident severity profiles, and the relationships between firearm involvement, injuries, and fatalities, while visually presenting key insights through well-curated, interactive dashboards.
 
